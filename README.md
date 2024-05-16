@@ -3,7 +3,7 @@
 - 📚 Hoje estou estudando para me tornar um desenvolvedor web (Today I'm studying to become a web developer)
 - 📖 Estudando BootsTrap e Inglês (Studying BootsTrap and English)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrayelOficial&show_icons=true&theme=dracula)
+<a href="https://github.com/GrayelOficial">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrayelOficial&show_icons=true&theme=dracula)</a>
 
 ##
 
