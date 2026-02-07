@@ -10,7 +10,7 @@ Desenvolvedor focado em soluções web de alta performance. Atualmente faço par
 
 Abaixo estão os principais projetos que desenvolvi recentemente:
 
-| Projeto | Link |
+| Projeto | Link &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
 | **Navorsky** | [Visitar 🌐](https://navorsky.com.br) |
 | **Adir Nardino** | [Visitar 🌐](https://adirnardino.com.br) |
@@ -38,4 +38,3 @@ Abaixo estão os principais projetos que desenvolvi recentemente:
 
 ### 📫 Contato
 - 💼 **Agência:** [Agência Visio](https://agenciavisio.com.br)
-- 🔗 **LinkedIn:** [Seu Link do LinkedIn aqui]
