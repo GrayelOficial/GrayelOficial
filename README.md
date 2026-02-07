@@ -10,20 +10,20 @@ Desenvolvedor focado em soluções web de alta performance. Atualmente faço par
 
 Abaixo estão os principais projetos que desenvolvi recentemente:
 
-| Projeto | Link &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Projeto | Link &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | :--- | :--- |
-| **Navorsky** | [Visitar 🌐](https://navorsky.com.br) |
-| **Adir Nardino** | [Visitar 🌐](https://adirnardino.com.br) |
-| **CCG Advogados** | [Visitar 🌐](https://ccg.adv.br) |
-| **Sociedade Espanhola** | [Visitar 🌐](https://sociedadeespanhola.com.br) |
-| **Caminho do Bosque** | [Visitar 🌐](https://www.pousadacaminhodobosque.com.br) |
-| **Vitrais Monte Verde** | [Visitar 🌐](https://vitraismonteverde.com.br) |
-| **Locadora UP** | [Visitar 🌐](https://locadoraup.com) |
-| **Ivier Odontologia** | [Visitar 🌐](https://ivierodontologia.com.br) |
-| **Atlântico Educacional** | [Visitar 🌐](https://atlanticoeducacional.com.br) |
-| **Focus 7 Engenharia** | [Visitar 🌐](https://focus7engenharia.com.br) |
-| **Ana Aguiar** | [Visitar 🌐](https://anaaguiarbbr.com.br) |
-| **Sociedade Portuguesa** | [Visitar 🌐](https://sociedadeportuguesabage.com.br) |
+| **Navorsky** | [Visitar https://navorsky.com.br 🌐](https://navorsky.com.br) |
+| **Adir Nardino** | [Visitar https://adirnardino.com.br 🌐](https://adirnardino.com.br) |
+| **CCG Advogados** | [Visitar https://ccg.adv.br 🌐](https://ccg.adv.br) |
+| **Sociedade Espanhola** | [Visitar https://sociedadeespanhola.com.br 🌐](https://sociedadeespanhola.com.br) |
+| **Caminho do Bosque** | [Visitar https://www.pousadacaminhodobosque.com.br 🌐](https://www.pousadacaminhodobosque.com.br) |
+| **Vitrais Monte Verde** | [Visitar https://vitraismonteverde.com.br 🌐](https://vitraismonteverde.com.br) |
+| **Locadora UP** | [Visitar https://locadoraup.com 🌐](https://locadoraup.com) |
+| **Ivier Odontologia** | [Visitar https://ivierodontologia.com.br 🌐](https://ivierodontologia.com.br) |
+| **Atlântico Educacional** | [Visitar https://atlanticoeducacional.com.br 🌐](https://atlanticoeducacional.com.br) |
+| **Focus 7 Engenharia** | [Visitar https://focus7engenharia.com.br 🌐](https://focus7engenharia.com.br) |
+| **Ana Aguiar** | [Visitar https://anaaguiarbbr.com.br 🌐](https://anaaguiarbbr.com.br) |
+| **Sociedade Portuguesa** | [Visitar https://sociedadeportuguesabage.com.br 🌐](https://sociedadeportuguesabage.com.br) |
 
 ---
 
