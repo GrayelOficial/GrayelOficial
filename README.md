@@ -38,3 +38,4 @@ Abaixo estão os principais projetos que desenvolvi recentemente:
 
 ### 📫 Contato
 - 💼 **Agência:** [Agência Visio](https://agenciavisio.com.br)
+- 🔗 **LinkedIn:** (https://www.linkedin.com/in/grayel-porto-rangel-1853ba31b/)
