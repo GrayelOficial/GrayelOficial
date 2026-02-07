@@ -10,20 +10,20 @@ Desenvolvedor focado em soluções web de alta performance. Atualmente faço par
 
 Abaixo estão os principais projetos que desenvolvi recentemente:
 
-| Projeto | Categoria | Tecnologia | Link |
-| :--- | :--- | :--- | :--- |
-| **Navorsky** | Industrial / Naval | PHP • Bootstrap | [Visitar 🌐](https://navorsky.com.br) |
-| **Adir Nardino** | Representação Comercial | PHP • Bootstrap | [Visitar 🌐](https://adirnardino.com.br) |
-| **CCG Advogados** | Jurídico / Advocacia | PHP • Bootstrap | [Visitar 🌐](https://ccg.adv.br) |
-| **Sociedade Espanhola** | Institucional / Filantropia | PHP • Bootstrap | [Visitar 🌐](https://sociedadeespanhola.com.br) |
-| **Caminho do Bosque** | Hotelaria / Turismo | PHP • Design Responsivo | [Visitar 🌐](https://www.pousadacaminhodobosque.com.br) |
-| **Vitrais Monte Verde** | Arte / Vidraçaria | PHP • Portfólio | [Visitar 🌐](https://vitraismonteverde.com.br) |
-| **Locadora UP** | Locação de Veículos | PHP • Sistemas | [Visitar 🌐](https://locadoraup.com) |
-| **Ivier Odontologia** | Saúde / Odonto | PHP • Bootstrap | [Visitar 🌐](https://ivierodontologia.com.br) |
-| **Atlântico Educacional** | Educação / Cursos | PHP • Bootstrap | [Visitar 🌐](https://atlanticoeducacional.com.br) |
-| **Focus 7 Engenharia** | Engenharia Civil | PHP • Bootstrap | [Visitar 🌐](https://focus7engenharia.com.br) |
-| **Ana Aguiar** | Advocacia Previdenciária | PHP • Bootstrap | [Visitar 🌐](https://anaaguiarbbr.com.br) |
-| **Sociedade Portuguesa** | Institucional / Saúde | PHP • Bootstrap | [Visitar 🌐](https://sociedadeportuguesabage.com.br) |
+| Projeto | Link |
+| :--- | :--- |
+| **Navorsky** | [Visitar 🌐](https://navorsky.com.br) |
+| **Adir Nardino** | [Visitar 🌐](https://adirnardino.com.br) |
+| **CCG Advogados** | [Visitar 🌐](https://ccg.adv.br) |
+| **Sociedade Espanhola** | [Visitar 🌐](https://sociedadeespanhola.com.br) |
+| **Caminho do Bosque** | [Visitar 🌐](https://www.pousadacaminhodobosque.com.br) |
+| **Vitrais Monte Verde** | [Visitar 🌐](https://vitraismonteverde.com.br) |
+| **Locadora UP** | [Visitar 🌐](https://locadoraup.com) |
+| **Ivier Odontologia** | [Visitar 🌐](https://ivierodontologia.com.br) |
+| **Atlântico Educacional** | [Visitar 🌐](https://atlanticoeducacional.com.br) |
+| **Focus 7 Engenharia** | [Visitar 🌐](https://focus7engenharia.com.br) |
+| **Ana Aguiar** | [Visitar 🌐](https://anaaguiarbbr.com.br) |
+| **Sociedade Portuguesa** | [Visitar 🌐](https://sociedadeportuguesabage.com.br) |
 
 ---
 
@@ -38,4 +38,4 @@ Abaixo estão os principais projetos que desenvolvi recentemente:
 
 ### 📫 Contato
 - 💼 **Agência:** [Agência Visio](https://agenciavisio.com.br)
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/grayel-porto-rangel-1853ba31b/]
+- 🔗 **LinkedIn:** [Seu Link do LinkedIn aqui]
